@@ -1,0 +1,9 @@
+[submodule "Duet-MainPCB/MX_V2"]
+	path = Duet-MainPCB/MX_V2
+	url = https://github.com/ai03-2725/MX_V2
+[submodule "Duet-MainPCB/random-keyboard-parts.pretty"]
+	path = Duet-MainPCB/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "Duet-MainPCB/Type-C.pretty"]
+	path = Duet-MainPCB/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty

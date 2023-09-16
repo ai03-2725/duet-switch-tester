@@ -1,0 +1,1 @@
+RP2040-QFN-56.kicad_mod is as provided by the Raspberry Pi Foundation here: https://datasheets.raspberrypi.com/rp2040/Minimal-KiCAD.zip
