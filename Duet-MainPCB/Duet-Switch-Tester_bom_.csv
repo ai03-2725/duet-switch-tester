@@ -1,0 +1,37 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Sim.Device,Sim.Pins
+1,"Unpolarized capacitor, small symbol",C_Small,C1 C2,27pF,C_0402_1005Metric,2,~,,
+2,"Unpolarized capacitor, small symbol",C_Small,C3 C4 C5 C8 C9 C10 C11 C12 C13 C14,0.1uF,C_0402_1005Metric,10,~,,
+3,"Unpolarized capacitor, small symbol",C_Small,C6 C15 C16 C17,1uF,C_0402_1005Metric,4,~,,
+4,"Unpolarized capacitor, small symbol",C_Small,C7,10uF-OPT,C_0603_1608Metric,1,~,,
+5,"75V 0.15A Fast Switching Diode, SOD-123",1N4148W,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 D34 D35 D36 D37 D38 D39 D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50 D51 D52 D53 D54 D55 D56 D57 D58 D59 D60 D61 D62 D63 D64 D65 D66 D67 D68 D69 D70 D71 D72 D73 D74 D75 D76 D77 D78 D79 D80 D81 D82 D83 D84 D85 D86 D87 D88 D89 D90 D91 D92 D93 D94 D95 D96 D97 D98 D99 D100 D101 D102 D103 D104 D105 D106 D107 D108,1N4148W,D_SOD-123-MinimalPrint,108,https://www.vishay.com/docs/85748/1n4148w.pdf,D,1=K 2=A
+6,"Schottky diode, small symbol",D_Schottky_Small,D109,RB060M-60TR,D_SOD-123,1,~,,
+7,"Resettable fuse, polymeric positive temperature coefficient, small symbol",Polyfuse_Small,F1,500mA,Fuse_1206_3216Metric,1,~,,
+8,"Push button switch, generic, two pins",SW_Push,K1 K2 K3 K4 K5 K6 K7 K8 K9 K10 K11 K12 K13 K14 K15 K16 K17 K18 K19 K20 K21 K22 K23 K24 K25 K26 K27 K28 K29 K30 K31 K32 K33 K34 K35 K36 K37 K38 K39 K40 K41 K42 K43 K44 K45 K46 K47 K48 K49 K50 K51 K52 K53 K54 K55 K56 K57 K58 K59 K60 K61 K62 K63 K64 K65 K66 K67 K68 K69 K70 K71 K72 K73 K74 K75 K76 K77 K78 K79 K80 K81 K82 K83 K84 K85 K86 K87 K88 K89 K90 K91 K92 K93 K94 K95 K96 K97 K98 K99 K100 K101 K102 K103 K104 K105 K106 K107 K108,CPG151101S11-16,MX-Hotswap-1U,108,~,,
+9,"Resistor, small symbol",R_Small,R5 R6,27.4,R_0402_1005Metric,2,~,,
+10,"Resistor, small symbol",R_Small,R1 R3 R4,1k,R_0402_1005Metric,3,~,,
+11,"Resistor, small symbol",R_Small,R9 R10,5k1,R_0603_1608Metric,2,~,,
+12,"Resistor, small symbol",R_Small,R7 R8,100k,R_0603_1608Metric,2,~,,
+13,"Resistor, small symbol",R_Small,R2,10k-OPT,R_0402_1005Metric,1,~,,
+14,"Push button switch, generic, two pins",SW_Push,SW1 SW2,SW_Push,SW_SPST_TL3342,2,~,,
+15,"250mA Low Quiscent Current LDO, 3.0V output, SOT-23",MCP1700-3002E_SOT23,U4,AP7313-33SRG-7,SOT-23,1,http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf,,
+16,,PRTR5V0U2X,U2,PRTR5V0U2X,SOT143B,1,,,
+17,,RP2040,U3,RP2040,RP2040-QFN-56,1,,,
+18,"32Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",W25Q32JVSS,U1,ZD25Q80BNIGR,USON-8-1.5mm,1,http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf,,
+19,,HRO-TYPE-C-31-M-12,USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,1,,,
+20,"Four pin crystal, GND on pins 2 and 4",Crystal_GND24,Y1,12MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,~,,
+
+
+
+
+
+Component Groups:,20
+Component Count:,253
+Fitted Components:,253
+Number of PCBs:,1
+Total components:,253
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,9/25/2023 11:44:36 AM
+Schematic Source:,Duet-Switch-Tester.kicad_sch
+KiCad Version:,Eeschema 7.0.7
