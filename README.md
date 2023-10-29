@@ -27,3 +27,8 @@ Necessary if planning to pair the device to a webapp or similar:
     - 10x M2x3.5 Spacers
     - 20x M2x3 wafer-head screws
 
+### Restrictions
+As per the [license](https://github.com/ai03-2725/duet-switch-tester/blob/main/LICENSE), any modified version must be fully disclosed and open-sourced under the same license.  
+  
+There is no warranty, liability, or support for this project.  
+If you intend to use this project, do so at your own risk and under your own responsibility.  
