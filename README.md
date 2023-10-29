@@ -1,5 +1,7 @@
 # Duet Switch Tester
 
+![Cover image](https://raw.githubusercontent.com/ai03-2725/duet-switch-tester/main/images/cover.jpg)
+
 A simple switch tester.  
 Displays two of each switch - one with a keycap for testing the keyfeel, and another without a keycap to show off the visuals.  
 Intended for use at events and storefronts.  
