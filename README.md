@@ -10,6 +10,7 @@ Intended for use at events and storefronts.
 - FR4 sandwich case
 - Designed to look visually balanced with the left column of each cluster having keycaps installed
 - Fully hotswap PCB powered by a RP2040
+- Roughly 1800-size to balance display quantity with practicality and shipping/transport constraints
 
 ### BOM
 Necessary for all builds:
