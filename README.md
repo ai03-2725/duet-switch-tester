@@ -2,9 +2,10 @@
 
 ![Cover image](https://raw.githubusercontent.com/ai03-2725/duet-switch-tester/main/images/cover.jpg)
 
-A simple switch tester.  
+A switch tester intended for use at events and storefronts.  
 Displays two of each switch - one with a keycap for testing the keyfeel, and another without a keycap to show off the visuals.  
-Intended for use at events and storefronts.  
+Can be assembled with a functioning PCB to pair the tester to a kiosk device for additional information display purposes.  
+
 
 ### Features
 - FR4 sandwich case
